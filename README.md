@@ -63,7 +63,7 @@ card-price-tracker/
 
 **1. Clone the repo**
 ```
-git clone https://github.com/Threetreestond/card-price-tracker
+git clone https://github.com/tneseyifdeakin/card-price-tracker
 cd card-price-tracker
 ```
 
